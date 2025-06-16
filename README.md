@@ -87,7 +87,7 @@ Replace the values with your specific GraphDB configuration.
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourname/mcp-server-graphdb.git
+git clone https://github.com/keonchennl/mcp-server-graphdb.git
 cd mcp-server-graphdb
 
 # Install dependencies
